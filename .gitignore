@@ -1,0 +1,53 @@
+# =========================
+# Archivos de OS (ignorar en cualquier lugar)
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Carpetas principales de Unity (dentro de la carpeta 'FPS2')
+# ¡Estas son las más importantes!
+# =========================
+FPS2/Library/
+FPS2/Temp/
+FPS2/Logs/
+FPS2/UserSettings/
+FPS2/MemoryCaptures/
+FPS2/obj/
+
+# =========================
+# Archivos de Visual Studio / Rider (dentro de 'FPS2')
+# =========================
+FPS2/.vs/
+FPS2/.idea/
+FPS2/*.csproj
+FPS2/*.unityproj
+FPS2/*.sln
+FPS2/*.suo
+FPS2/*.tmp
+FPS2/*.user
+FPS2/*.userprefs
+FPS2/*.pidb
+FPS2/*.booproj
+FPS2/*.svd
+FPS2/*.pdb
+FPS2/*.mdb
+
+# =========================
+# Archivos de compilación (dentro de 'FPS2')
+# =========================
+FPS2/[Bb]uilds/
+FPS2/[Bb]uild/
+FPS2/*.apk
+FPS2/*.aab
+FPS2/*.unitypackage
+
+# =========================
+# Cache de paquetes (dentro de 'FPS2')
+# =========================
+FPS2/[Aa]ssets/AssetStoreTools*
+
+# =========================
+# Logs locales (dentro de 'FPS2')
+# =========================
+FPS2/*.log
