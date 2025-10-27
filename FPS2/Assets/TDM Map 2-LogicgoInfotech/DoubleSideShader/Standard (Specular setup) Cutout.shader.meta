@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62dd6f1ff08ba8747900afef3724765b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259808
+  packageName: TDM Map 2 - FPS Game Environment - Low poly
+  packageVersion: 1.0
+  assetPath: Assets/TDM Map 2-LogicgoInfotech/DoubleSideShader/Standard (Specular
+    setup) Cutout.shader
+  uploadId: 608312
